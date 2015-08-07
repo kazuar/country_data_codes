@@ -1,5 +1,4 @@
 
-import re
 import bs4
 import json
 import requests
